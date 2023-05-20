@@ -5,3 +5,5 @@
 #mais uma alteração
 
 *comando git push
+
+*comando git pull
